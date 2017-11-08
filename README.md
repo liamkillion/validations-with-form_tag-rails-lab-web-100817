@@ -13,21 +13,21 @@
 ## Validations
 
 1. Add validations to `Author` such that...
-  1. `name` is not blank
-  1. `email` is unique
-  1. `phone_number` is exactly 10 digits long
+  1. `name` is not blank X
+  1. `email` is unique X
+  1. `phone_number` is exactly 10 digits long X
 1. Add validations to `Post` such that...
-  1. `title` is not blank
-  1. `content` is at least 100 characters long
-  1. `category` is either `"Fiction"` or `"Non-Fiction"`
+  1. `title` is not blank X
+  1. `content` is at least 100 characters long X
+  1. `category` is either `"Fiction"` or `"Non-Fiction"` X
 
 ## Basic Routes & Controllers
 
-1. Create controllers for both models.
-1. Create `show`, `new`, `edit`, `create`, and `update` routes for both models.
-1. Define controller actions for `show`, `new`, and `edit`.
-1. Define the "valid path" for the `create` and `update` controller actions.
-1. Define the "invalid path" for the `create` and `update` controller actions.
+1. Create controllers for both models. X
+1. Create `show`, `new`, `edit`, `create`, and `update` routes for both models. X
+1. Define controller actions for `show`, `new`, and `edit`. X
+1. Define the "valid path" for the `create` and `update` controller actions. X
+1. Define the "invalid path" for the `create` and `update` controller actions.X
 
 ## Forms
 
